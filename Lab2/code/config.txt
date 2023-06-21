@@ -1,0 +1,5 @@
+liczby.txt
+sorted_numbers.txt
+repetition.txt
+times.txt
+elements.txt
